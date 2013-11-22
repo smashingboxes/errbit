@@ -89,7 +89,7 @@ end
 
 group :development do
   gem 'capistrano', '~> 2.0', :require => false
-  gem 'rvm-capistrano'
+  gem 'rvm-capistrano', '~> 1.3.4'
 
   # better errors
   gem 'better_errors'
