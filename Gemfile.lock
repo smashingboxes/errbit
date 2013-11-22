@@ -310,6 +310,8 @@ GEM
     rushover (0.3.0)
       json
       rest-client
+    rvm-capistrano (1.5.1)
+      capistrano (~> 2.15.4)
     safe_yaml (0.9.7)
     simple_oauth (0.2.0)
     simplecov (0.7.1)
@@ -420,6 +422,7 @@ DEPENDENCIES
   ruby-debug
   ruby-fogbugz
   rushover
+  rvm-capistrano
   strong_parameters
   therubyracer
   timecop
